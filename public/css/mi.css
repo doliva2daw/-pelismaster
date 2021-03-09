@@ -1,0 +1,12 @@
+#section1{
+    background-image: url("https://assets.fanart.tv/fanart/movies/439079/moviebackground/the-nun-5b5e22e0d383f.jpg");
+    min-width: 100vw;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color:rgba(0, 0, 0, 0.5);
+    color: azure;
+}
+
+#nav{
+    color: azure !important;
+}
